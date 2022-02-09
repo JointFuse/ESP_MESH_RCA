@@ -2,8 +2,8 @@
 # ESP32 Software Stack:
 
 |-------------------------------------------------------------------------------------------|
-\\|             |                   |               |                     |                   |
-\|             |    asio_server    |   mail_soc,   |   smartconfig_main  |   mcpwm_module,   |
+|             |                   |               |                     |                   |
+|             |    asio_server    |   mail_soc,   |   smartconfig_main  |   mcpwm_module,   |
 |             |                   |   mesh_mail   |                     |   led_indicate    |
 |             |-------------------|---------------|---------------------|-------------------|
 |    RTOS:    |                   |               |                     |                   |
